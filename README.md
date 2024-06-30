@@ -1,3 +1,6 @@
+A PSO-based energy-efficient data collection optimization algorithm for UAV mission planning
+https://doi.org/10.1371/journal.pone.0297066
+
 FitnessFunc: Fitness evaluation function
 
 1. exp01: experiments in Section 4.2 of the paper
